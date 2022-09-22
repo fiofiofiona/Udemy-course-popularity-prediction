@@ -1,1 +1,4 @@
-
+# Predict popularity of courses on the Udemy platform
+In this project, several variables are used to make predictions for the number of subscribers of Udemy online courses. The analysis and prediction can help the stakeholders (Udemy platform, course providers/designers/instructors) to identify key factors that decide if a course would attract a large number of subscribers, and possibly make adjustment on future online courses.
+\
+The analysis has been performed in [analysis.ipynb](https://github.com/fiofiofiona/Udemy-course-popularity-prediction/blob/main/analysis.ipynb) along with all results and figures. A presentation that describes the problem statement and analysis details can be found in the [recording](https://drive.google.com/file/d/18mT9F1DJczgfPqylXRL_9BKkvxeIrFd6/view?usp=sharing) and the [slides](https://github.com/fiofiofiona/Udemy-course-popularity-prediction/blob/main/slides.pptx).
